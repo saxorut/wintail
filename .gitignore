@@ -1,0 +1,9 @@
+Debug/
+Release/
+ipch/
+*.suo
+*.sln.user
+!bin/release/wintail.exe
+*.log
+*.sdf
+*.opensdf
